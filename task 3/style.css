@@ -1,0 +1,24 @@
+body {
+    background: rgb(244, 241, 244);
+  }
+.content {
+    margin: 10% auto;
+    max-width: 600px;
+    height: 500px;
+    text-align: center;
+    box-shadow: 0 0 30px 10px rgb(140, 43, 230, 10%);
+    border-radius: 10px;
+    background: white;
+    color: blueviolet;
+    font-family: "Arial";
+  
+    letter-spacing: 0.08rem;
+    font-size: larger;
+}
+  
+h1 {
+    letter-spacing: 0.1rem;
+    padding: 2rem;
+    font-weight: bold;
+}
+
